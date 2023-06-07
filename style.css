@@ -1,0 +1,39 @@
+.fixed-cabecalho{
+position:fixed;
+left: 0;
+top:0;
+right: 0;
+}
+
+.background-color{
+    background-color: rgba(206, 255, 127, 0.781);
+}
+
+.background-color-transparente{
+
+    background-image: url(../webCarona/img2/log.jpeg ) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+}
+
+.cabbut{
+    display:flex;
+   
+}
+.cabbut2{
+    margin-left: 10px;
+}
+
+.background-image{
+    opacity: 0.5 ;
+}
+
+.cab{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+}
